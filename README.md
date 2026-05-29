@@ -1,6 +1,6 @@
 # terraform-state-agent
 
-An AI-powered agent that reads Terraform state files, analyzes your infrastructure, and suggests improvements — executing changes only after explicit user approval.
+An AI-powered agent that reads Terraform state files, analyzes your infrastructure, and suggests improvements - executing changes only after explicit user approval.
 
 ## What it does
 - Parses Terraform state files to understand current infrastructure
@@ -27,5 +27,5 @@ Manual Terraform state review is tedious and error-prone. This agent brings AI-a
 - [ ] Remote state support (S3 backend)
 
 ## Author
-Lonwabo Mcobothi — Cloud & DevOps Engineer in training
+Lonwabo Mcobothi - Cloud & DevOps Engineer in training
 Durban, South Africa | Open to remote roles
